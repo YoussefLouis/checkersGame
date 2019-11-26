@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CMUgraphicsLib\auxil.cpp">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\CMUgraphics.cpp">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\colors.cpp">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\image.cpp">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jcomapi.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jcparam.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdapimin.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdapistd.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdatasrc.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdcoefct.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdcolor.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jddctmgr.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdhuff.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdinput.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdmainct.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdmarker.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdmaster.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdmerge.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdphuff.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdpostct.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdsample.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdtrans.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jerror.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jidctflt.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jidctfst.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jidctint.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jidctred.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jmemmgr.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jmemnobs.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpegload.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jquant1.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jquant2.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jutils.c">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\keyqueue.cpp">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\mousequeue.cpp">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\windowinput.cpp">
+      <Filter>Lib Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameWin.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Output.cpp">
+      <Filter>Game Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CMUgraphicsLib\auxil.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\CMUgraphics.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\colors.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\error.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\image.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jconfig.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jdct.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jdhuff.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jerror.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jinclude.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jmemsys.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jmorecfg.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jpegint.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jpeglib.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpegload.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jversion.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\keyqueue.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\mousequeue.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\version.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\windowinput.h">
+      <Filter>Lib Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameProperities.h">
+      <Filter>Game Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Output.h">
+      <Filter>Game Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell.h">
+      <Filter>Game Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Lib Files">
+      <UniqueIdentifier>{e11dacc5-f47d-47e6-abf3-e3d6b238f0bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Files">
+      <UniqueIdentifier>{508d48d7-2fe0-43e5-a74d-490740a4e4dc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="back.txt">
+      <Filter>Lib Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
